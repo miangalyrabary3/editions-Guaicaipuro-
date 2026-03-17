@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Éditions Guaicaipuro</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body style="text-align:center; margin-top:50px; font-family:Arial;">
+    <h1>Éditions Guaicaipuro</h1>
+    <p>Bienvenue sur mon site 🎉</p>
+</body>
+</html>
